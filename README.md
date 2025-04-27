@@ -1,5 +1,3 @@
-<img align="left" height="199" src="https://avatars.githubusercontent.com/u/17837425?v=4"  />
-
 ###
 
 <h5 align="left">idk</h5>
